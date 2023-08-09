@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: actions-test
+    runs-on: usa-action
 
     strategy:
       matrix:
